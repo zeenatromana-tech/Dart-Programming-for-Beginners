@@ -1,0 +1,12 @@
+Positional
+void printName(String name, [String title]) {
+  print("$title $name");
+}
+Named Parameters
+void printData({String name, int age}) {
+  print("$name $age");
+}
+Default Parameters
+void printCountry({String country = "Pakistan"}) {
+  print(country);
+}
