@@ -1,0 +1,11 @@
+List (Array)
+List numbers = [1,2,3,4];
+Fixed Length List
+List fixed = List.filled(5, 0);
+Set
+Set names = {"Ali", "Ahmed"};
+Map
+Map student = {
+  "name": "Ali",
+  "age": 20
+};
