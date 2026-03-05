@@ -1,0 +1,14 @@
+Handles runtime errors.
+
+void main() {
+  try {
+    int result = 10 ~/ 0;
+    print(result);
+  } catch (e) {
+    print("Error occurred");
+  }
+}
+Custom Exception
+class AgeException implements Exception {
+  String errorMessage() => "Age must be greater than 18";
+}
