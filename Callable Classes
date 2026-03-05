@@ -1,0 +1,12 @@
+A class that acts like a function.
+
+class Add {
+  call(int a, int b) {
+    return a + b;
+  }
+}
+
+void main() {
+  var add = Add();
+  print(add(2,3));
+}
