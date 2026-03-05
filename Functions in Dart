@@ -1,0 +1,12 @@
+Functions perform specific tasks.
+
+Declaring Function
+void greet() {
+  print("Hello");
+}
+Function with Return Value
+int add(int a, int b) {
+  return a + b;
+}
+Arrow Function (Short Syntax)
+int add(int a, int b) => a + b;
