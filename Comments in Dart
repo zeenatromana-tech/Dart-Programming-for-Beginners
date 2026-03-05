@@ -1,0 +1,10 @@
+Comments explain code.
+
+Single Line Comment
+// This is a comment
+print("Hello");
+Multi-line Comment
+/* 
+This is a
+multi-line comment
+*/
