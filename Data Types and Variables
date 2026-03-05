@@ -1,0 +1,16 @@
+Variables store data.
+
+void main() {
+  int age = 25;
+  double price = 20.5;
+  String name = "Ali";
+  bool isStudent = true;
+
+  print(name);
+}
+Common Data Types
+Type	Example
+int	10
+double	3.14
+String	"Hello"
+bool	true
