@@ -1,0 +1,13 @@
+Lambda Expression
+var add = (int a, int b) => a + b;
+Higher Order Function
+
+Function that takes another function.
+
+void operation(int a, int b, Function func) {
+  print(func(a, b));
+}
+Lexical Closures
+Function addNumber(int x) {
+  return (int y) => x + y;
+}
