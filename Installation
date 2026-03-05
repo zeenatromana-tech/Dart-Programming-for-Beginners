@@ -1,0 +1,14 @@
+Windows / Mac / Linux
+
+Download Dart SDK from
+https://dart.dev
+
+Install VS Code
+
+Install Dart Extension in VS Code
+
+Verify installation
+
+dart --version
+
+If Dart is installed correctly, the version will appear.
