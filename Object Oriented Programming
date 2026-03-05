@@ -1,0 +1,23 @@
+Class and Object
+class Student {
+  String name = "Ali";
+  int age = 20;
+}
+
+void main() {
+  Student s = Student();
+  print(s.name);
+}
+Constructors
+Default Constructor
+class Person {
+  Person() {
+    print("Constructor called");
+  }
+}
+Parameterized Constructor
+class Person {
+  String name;
+
+  Person(this.name);
+}
