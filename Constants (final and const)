@@ -1,0 +1,10 @@
+final
+
+Value set once.
+
+final city = "Lahore";
+const
+
+Compile-time constant.
+
+const pi = 3.14;
